@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.task1 {
+    background-color: #C72624;
+}
+
+.task1_content {
+    display: flex;
+}
+
+.images {
+    text-align: center;
+}
+
+.images img {
+    width: 10%;
+}
+
+.text {
+    text-align: center;
+}
+
+.text p {
+    margin: 10px 250px;
+}
+
+.container {
+    padding: 30px;
+}
+
+.sun {
+    display: none;
+}
+
+.accordion-item {
+    background-color: rgb(224, 243, 206);
+    padding: 20px;
+    border: none;
+    text-align: left;
+    border: 20px solid white;
+}
+
+.accordion-down {
+    display: flex;
+    justify-content: space-between;
+}
+
+.accordion-content {
+    display: none;
+    padding: 10px;
+}
+
+.up {
+    display: none;
+}
+
+.task4 {
+    background-color: #023852;
+}
+
